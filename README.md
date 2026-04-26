@@ -32,11 +32,13 @@ Sistem menggunakan **JWT** untuk:
 
 ## ⚙️ Instalasi & Menjalankan Project
 
-### 1. Clone Repository
+### 1. Setup Backend
 
 ```bash
-git clone https://github.com/anggaprsada/laundry.git
-cd laundry
+git clone -b backend https://github.com/anggaprsada/laundry.git
+cd laundry/backend
+npm install
+npm start
 ```
 
 ### 2. Setup Frontend
