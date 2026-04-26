@@ -42,7 +42,8 @@ cd laundry
 ### 2. Setup Backend
 
 ```bash
-cd backend
+git clone -b backend https://github.com/anggaprsada/laundry.git
+cd laundry/backend
 npm install
 npm start
 ```
@@ -50,7 +51,8 @@ npm start
 ### 3. Setup Frontend
 
 ```bash
-cd frontend
+git clone -b frontend https://github.com/anggaprsada/laundry.git
+cd laundry/frontend
 flutter pub get
 flutter run
 ```
