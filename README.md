@@ -39,16 +39,7 @@ git clone https://github.com/anggaprsada/laundry.git
 cd laundry
 ```
 
-### 2. Setup Backend
-
-```bash
-git clone -b backend https://github.com/anggaprsada/laundry.git
-cd laundry/backend
-npm install
-npm start
-```
-
-### 3. Setup Frontend
+### 2. Setup Frontend
 
 ```bash
 git clone -b frontend https://github.com/anggaprsada/laundry.git
